@@ -7,7 +7,7 @@ An Express.js API mock-up for an internet retail company database. Using the MyS
 
 ## Installation
 
-1) Make sure you have MYSQL installed
+1) Make sure you have MYSQL and Postman/insomnia installed
 2) Clone repository
 3) run "npm install"
 
